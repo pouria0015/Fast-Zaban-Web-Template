@@ -8,6 +8,4 @@ You can see some pictures of the project:
 
 ![image 1](./img/Readme/1.png)
 
-![image 2](./img/Readme/2.png)
-
 Good luck!
