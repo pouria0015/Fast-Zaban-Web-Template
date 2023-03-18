@@ -1,6 +1,6 @@
-﻿# Venus web template
+﻿# Fast Zaban web template
 
-This web template, which includes only the **front end**, is an almost complete blog template developed with **Bootstrap**.
+This web template, which includes only the **front end**, is an almost complete blog template developed with **html,css**.
 
 #
 
